@@ -6,4 +6,5 @@ int  main(){
 
 
 	void dummy(){
+	    std::cout<<"Added directly on git-hub"<<endl;
 	}
